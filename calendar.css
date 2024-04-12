@@ -1,0 +1,117 @@
+/* Estilo para a tabela do calendário */
+#calendar {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+ 
+/* Estilo para os cabeçalhos das colunas (dias da semana) */
+#calendar th {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+}
+ 
+/* Estilo para os dias da semana */
+#calendar td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+ 
+/* Estilo para os dias de domingo */
+#calendar .domingo {
+    color: red;
+}
+ 
+/* Estilo para o título do calendário */
+h3 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+ 
+/* Estilo para o contêiner do formulário */
+#calendario {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+ 
+/* Estilo para os rótulos */
+label {
+    display: block;
+    font-weight: bold;
+}
+ 
+/* Estilo para a caixa de seleção de cores */
+#color {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+ 
+/* Estilo para a entrada de número do dia */
+#day {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+ 
+/* Estilo para o botão de envio */
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+ 
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Estilo para a caixa de seleção de cores */
+#color {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+ 
+/* Estilo para a entrada de número do dia */
+#day {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+ 
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+ 
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
