@@ -3,6 +3,7 @@
 * [Descrição](#descrição)
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
+* [Calendário](#calendário)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Referências](#referências)
 * [Autores](#autores)
@@ -14,6 +15,9 @@ O Calendário de Agendamento de Fretes é uma aplicação web desenvolvida para 
 
 ## Introdução 📖
 A empresa Alpha é uma empresa de fretamento que necessita de uma solução eficiente para o agendamento de fretes dos veículos. A vaga de estagiário na área de agendamento demanda a criação de uma ferramenta que permita o registro dos agendamentos de forma fácil e intuitiva. Este projeto visa atender a essa demanda, fornecendo uma solução prática e funcional para o agendamento de fretes.
+
+## Calendário 🗓️
+![Calendário](img/calendario.png)
 
 ## Funcionalidades ⚙️
 - Marcação de dias no calendário, atribuindo a eles a cor do veículo que realizará o frete.
